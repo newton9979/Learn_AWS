@@ -335,7 +335,7 @@ It is especially helpful for production environments where backup automation, co
 
 # Amazon EBS Lifecycle Manager
 
-![Amazon EBS Lifecycle Manager](assets/ebs-lifecycle-manager.png)
+![Amazon EBS Lifecycle Manager](../assets/ebs-lifecycle-manager.png)
 
 > Handwritten study notes covering Amazon EBS Lifecycle Manager (DLM), automated snapshot creation, retention policies, backup automation, cost optimization, disaster recovery, and best practices.
 
