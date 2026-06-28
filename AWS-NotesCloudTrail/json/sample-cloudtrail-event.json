@@ -1,0 +1,39 @@
+{
+  "eventVersion": "1.08",
+  "userIdentity": {
+    "type": "IAMUser",
+    "principalId": "AIDABCDEFGHIJKLMN1234",
+    "arn": "arn:aws:iam::123456789012:user/AdminUser",
+    "accountId": "123456789012",
+    "accessKeyId": "AKIAEXAMPLE123456789",
+    "userName": "AdminUser"
+  },
+  "eventTime": "2026-06-29T08:30:15Z",
+  "eventSource": "ec2.amazonaws.com",
+  "eventName": "RunInstances",
+  "awsRegion": "us-east-1",
+  "sourceIPAddress": "203.0.113.25",
+  "userAgent": "console.amazonaws.com",
+  "requestParameters": {
+    "instanceType": "t3.micro",
+    "imageId": "ami-0abcdef1234567890",
+    "minCount": 1,
+    "maxCount": 1
+  },
+  "responseElements": {
+    "instancesSet": {
+      "items": [
+        {
+          "instanceId": "i-0123456789abcdef0"
+        }
+      ]
+    }
+  },
+  "requestID": "12345678-abcd-1234-efgh-1234567890ab",
+  "eventID": "abcdef12-3456-7890-abcd-ef1234567890",
+  "readOnly": false,
+  "eventType": "AwsApiCall",
+  "managementEvent": true,
+  "recipientAccountId": "123456789012",
+  "eventCategory": "Management"
+}
