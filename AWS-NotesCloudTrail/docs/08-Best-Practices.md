@@ -1,4 +1,4 @@
-````markdown
+
 # ⭐ AWS CloudTrail Best Practices
 
 ## 📌 Lab Objective
@@ -223,5 +223,5 @@ As a result, the company can quickly detect suspicious API activity, investigate
 # 📚 Summary
 
 Following AWS CloudTrail best practices ensures that API activity is securely recorded, monitored, and retained for future analysis. By enabling Multi-Region Trails, encrypting logs, integrating with CloudWatch, and applying the principle of least privilege, organizations can build a secure, compliant, and well-monitored AWS environment. These practices are recommended for both learning environments and production workloads.
-````
+
 
