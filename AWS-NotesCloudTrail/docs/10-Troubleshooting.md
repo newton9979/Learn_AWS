@@ -1,4 +1,3 @@
-````markdown
 # 🛠️ AWS CloudTrail Troubleshooting Guide
 
 ## 📌 Lab Objective
@@ -266,5 +265,5 @@ Most AWS CloudTrail issues are caused by incorrect Trail configuration, missing 
 - Enable Data Events when object-level logging is required.
 - Enable CloudTrail Insights for anomaly detection.
 - Check IAM, S3, and KMS permissions when troubleshooting access issues.
-````
+
 
