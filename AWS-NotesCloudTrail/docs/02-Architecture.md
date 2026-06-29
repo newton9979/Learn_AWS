@@ -1,4 +1,3 @@
-````markdown
 # 🏗️ AWS CloudTrail Architecture
 
 ## 📌 Overview
@@ -243,5 +242,5 @@ CloudTrail
 AWS CloudTrail acts as the audit service for your AWS account. Every supported API request made through the AWS Console, CLI, SDK, or services is recorded and can be reviewed through Event History or stored in Amazon S3 for long-term analysis.
 
 Understanding this architecture is essential for implementing secure, compliant, and well-governed AWS environments.
-````
+
 
