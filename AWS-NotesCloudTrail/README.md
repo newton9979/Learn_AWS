@@ -1,4 +1,4 @@
-````markdown
+
 # ☁️ AWS CloudTrail - Complete Hands-on Guide
 
 > A practical guide to learning **AWS CloudTrail** through hands-on labs, architecture diagrams, real-world examples, interview questions, and best practices.
@@ -200,5 +200,5 @@ This project is licensed under the MIT License.
 Learning AWS | DevOps | Cloud Engineering
 
 Happy Learning! 🚀
-````
+
 
