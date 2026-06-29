@@ -1,4 +1,3 @@
-````markdown
 # 📜 AWS CloudTrail Event History
 
 ## 📌 Objective
@@ -154,5 +153,5 @@ AWS CloudTrail Event History is commonly used for:
 # 📚 Summary
 
 AWS CloudTrail Event History provides a simple and effective way to monitor AWS account activity. It records management events automatically, making it easy to audit user actions, troubleshoot issues, and investigate security incidents without any additional configuration.
-````
+
 
