@@ -1,4 +1,3 @@
-````markdown
 # 🔍 AWS CloudTrail Insights
 
 ## 📌 Lab Objective
@@ -274,5 +273,5 @@ Insight Event Generated 🚨
 # 📚 Summary
 
 AWS CloudTrail Insights extends CloudTrail by automatically detecting unusual AWS API activity. Instead of simply recording events, it analyzes behavior over time and generates Insight Events whenever activity deviates from the normal baseline. This helps organizations quickly identify security incidents, operational issues, and unexpected changes in their AWS environment.
-````
+
 
