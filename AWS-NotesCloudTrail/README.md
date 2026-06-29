@@ -189,7 +189,7 @@ If you found this project helpful:
 This project is licensed under the MIT License.
 
 <p align="center">
-  <img src="/images/cloudtrail-cheatsheet.png" alt="AWS CloudTrail Cheat Sheet" width="100%">
+  <img src="./images/cloudtrail-cheatsheet.png" alt="AWS CloudTrail Cheat Sheet" width="100%">
 </p>
 ---
 
