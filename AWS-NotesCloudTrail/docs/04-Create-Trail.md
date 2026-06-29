@@ -1,4 +1,4 @@
-````markdown
+
 # 🛤️ Create an AWS CloudTrail Trail
 
 ## 📌 Lab Objective
@@ -228,5 +228,5 @@ This provides secure, long-term audit records for security and compliance.
 # 📚 Summary
 
 AWS CloudTrail Trails provide continuous monitoring of AWS API activity and securely store logs in Amazon S3. They are essential for security auditing, compliance, operational troubleshooting, and long-term activity tracking. Creating a Trail is a best practice for every production AWS environment.
-````
+
 
