@@ -1,4 +1,4 @@
-```markdown
+
 # 🎯 AWS CloudTrail Interview Questions & Answers
 
 ## 📌 Objective
@@ -277,5 +277,5 @@ CloudWatch can create alarms and send Amazon SNS notifications based on CloudTra
 # 📚 Summary
 
 AWS CloudTrail is a fundamental service for auditing, monitoring, and securing AWS environments. Understanding concepts such as Event History, Trails, Management Events, Data Events, CloudTrail Insights, and the differences between CloudTrail and CloudWatch will help you succeed in AWS certification exams and technical interviews. Reviewing these interview questions regularly will strengthen your cloud security knowledge and prepare you for real-world scenarios.
-```
+
 
