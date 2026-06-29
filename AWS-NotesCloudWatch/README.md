@@ -1,4 +1,4 @@
-````markdown
+
 <div align="center">
 
 # ☁️ AWS Notes – Amazon CloudWatch
@@ -343,5 +343,5 @@ Licensed under the MIT License.
 Made with ❤️ for the AWS Community
 
 </div>
-````
+
 
