@@ -1,4 +1,4 @@
-````markdown
+
 # 📘 Introduction to AWS CloudTrail
 
 ## 📌 What is AWS CloudTrail?
@@ -171,5 +171,5 @@ In the next sections, you'll learn how to:
 AWS CloudTrail is an essential AWS service for monitoring, auditing, and securing your AWS environment. It records AWS API activity, stores logs for analysis, supports compliance requirements, and provides valuable insights into account activity.
 
 Whether you're preparing for the AWS Certified Solutions Architect – Associate (SAA-C03) exam or working in a production AWS environment, understanding CloudTrail is a fundamental cloud security skill.
-````
+
 
