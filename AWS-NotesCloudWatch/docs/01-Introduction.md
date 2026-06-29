@@ -122,6 +122,6 @@ It is a **must-know service for AWS SAA-C03 and DevOps engineers**.
 <h2 align="center">☁️ Amazon CloudWatch Overview</h2>
 
 <p align="center">
-  <img src="images/cloudwatch-introduction.png" width="900" alt="Amazon CloudWatch Introduction Diagram">
+  <img src="../images/cloudwatch-introduction.png" width="900" alt="Amazon CloudWatch Introduction Diagram">
 </p>
 ---
